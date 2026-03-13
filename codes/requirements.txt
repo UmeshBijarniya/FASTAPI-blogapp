@@ -3,3 +3,6 @@ pydantic
 uvicorn
 jinja2
 sqlalchemy
+"pwdlib[argon2]"
+pyjwt
+pydantic-settings
